@@ -1,2 +1,2 @@
 # Travel
-![](/imgs/TravelWesbite)
+![](imgs/TravelWesbite)
